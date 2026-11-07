@@ -9,7 +9,8 @@ This is an HackClub Phantom Project.
 - get it booting on my bare machine
 
 # how are we making this?
-I am following the "https://github.com/cfenollosa/os-tutorial/" guide to make this project happen
+I am following the "https://github.com/cfenollosa/os-tutorial/" guide to make this project happen.
+Well now we are using OsWiki as ref nvm
 
 and yes  low level is fun but sometimes people in their community are toxic...like android custom roms ones!
 
